@@ -7,7 +7,7 @@
   },
   {
     "remote": "github",
-    "repository": "LineageOS/android_vendor_nxp-nfc_opensour,ce_libnfc-nci",
+    "repository": "LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci",
     "target_path": "vendor/nxp-nfc/opensource/libnfc-nci"
     "branch": "cm-14.1"
   },
